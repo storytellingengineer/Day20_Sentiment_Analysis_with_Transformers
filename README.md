@@ -32,6 +32,28 @@ This project demonstrates how to perform **Sentiment Analysis** using HuggingFac
 
 ---
 
+### How to run:
+
+Install dependencies:
+
+```
+pip install transformers streamlit
+```
+
+Run CLI script:
+
+```
+python sentiment_analysis_transformer.py
+```
+
+Run Streamlit app:
+
+```
+streamlit run app.py
+```
+
+---
+
 ### Next Steps:
 
 This marks the completion of the **NLP track** in my #90DaysOfAI series.  
